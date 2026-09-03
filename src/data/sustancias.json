@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 52,
+    "codigo_sin": null,
+    "nombre": "Estiércol de establo y avícola",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación, si no procede de sistemas de producción orgánica. Fuentes de “agricultura industrial” no permitidas20."
+  },
+  {
+    "id": 2,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 52,
+    "codigo_sin": null,
+    "nombre": "Estiércol líquido u orina",
+    "condiciones": "Si no procede de fuentes orgánicas, necesidad reconocida por el organismo inspector. Emplear de preferencia después de fermentación controlada y/o dilución apropiada. Fuentes de “agricultura industrial” no permitidas."
+  },
+  {
+    "id": 3,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 52,
+    "codigo_sin": null,
+    "nombre": "Excrementos animales compostados, incluido estiércol avícola",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de inspección."
+  },
+  {
+    "id": 4,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 52,
+    "codigo_sin": null,
+    "nombre": "Estiércol y estiércol de granja compostado",
+    "condiciones": "Fuentes de “agricultura industrial” no permitidas"
+  },
+  {
+    "id": 5,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Estiércol de establo y estiércol avícola deshidratados",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación. Fuentes de “agricultura industrial” no permitidas."
+  },
+  {
+    "id": 6,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Guano",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 7,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Paja",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 8,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Compostes de substratos agotados procedentes del cultivo de hongos y la vermicultura",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación. La composición inicial del substrato debe limitarse a los productos incluidos en esta lista."
+  },
+  {
+    "id": 9,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Desechos domésticos surtidos, compostados o fermentados",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 10,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Compostes procedentes de residuos vegetales",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 11,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Productos animales elaborados procedentes de mataderos e industrias pesqueras",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 12,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Subproductos de industrias alimentarias y textiles",
+    "condiciones": "No tratados con aditivos sintéticos. Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 13,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 53,
+    "codigo_sin": null,
+    "nombre": "Algas marinas y sus derivados",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de"
+  },
+  {
+    "id": 14,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Aserrín, cortezas de árbol y deshechos de madera",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación, de madera no tratada químicamente después de la tala."
+  },
+  {
+    "id": 15,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Cenizas de madera y carbón de madera",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación, de madera no tratada químicamente después de la tala."
+  },
+  {
+    "id": 16,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Roca de fosfato natural",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación. El cadmio no deberá exceder 90mg/Kg. P 0 . 2 5"
+  },
+  {
+    "id": 17,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Escoria básica",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 18,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Potasa mineral, sales de potasio de extracción mineral (por Ej. cainita, silvinita)",
+    "condiciones": "Menos de 60% de cloro."
+  },
+  {
+    "id": 19,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Sulfato de potasa ((por Ej. patenkali)",
+    "condiciones": "Obtenido por procedimientos físicos pero no enriquecido mediante procesos químicos para aumentar su solubilidad. Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 20,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Carbonato de calcio de origen natural (por Ej. creta, marga, maerl, piedra caliza, creta fosfato)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 21,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Roca de magnesio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 22,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 54,
+    "codigo_sin": null,
+    "nombre": "Roca calcárea de magnesio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 23,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Sales de Epsom (sulfato de magnesio)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 24,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Yeso (Sulfato de calcio)",
+    "condiciones": "Solo de fuentes/origen natural."
+  },
+  {
+    "id": 25,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Vinaza y sus extractos",
+    "condiciones": "Vinaza amónica excluida."
+  },
+  {
+    "id": 26,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Cloruro sódico",
+    "condiciones": "Sólo de sal mineral"
+  },
+  {
+    "id": 27,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Fosfato cálcico de aluminio",
+    "condiciones": "El Cadmio no debe exceder los 90 mg/Kg. P 0 2 5"
+  },
+  {
+    "id": 28,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Oligoelementos (por Ej. boro, cobre, hierro, manganeso, molibdeno, zinc)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 29,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Azufre",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 30,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Polvo de piedra",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 31,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Arcilla (por Ej. bentonita, perlita, zeolita)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 32,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Organismos biológicos naturales (por Ej. gusanos)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 33,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Vermiculita",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 34,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Turba",
+    "condiciones": "Excluidos los aditivos sintéticos; permitida para semilla, macetas y compostes modulares. Otros usos, según lo admita el organismo o autoridad de certificación. Prohibido como acondicionador de suelos,"
+  },
+  {
+    "id": 35,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 55,
+    "codigo_sin": null,
+    "nombre": "Humus de gusanos e insectos",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 36,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Cloruro de cal",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 37,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Excrementos humanos",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación. La fuente es separada de los desechos domésticos e industriales que presentan un riesgo de contaminación química. Es lo suficientemente tratada como para eliminar los riesgos de pestes, parásitos, y microorganismos patógenos. y no son aplicables a cultivos para consumo humano o partes comestibles de las plantas."
+  },
+  {
+    "id": 38,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Subproductos de la industria azucarera (por Ej. vinaza)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 39,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Subproductos de las palmas oleaginosas, del coco y del cacao (incluyendo los racimos de cáscaras de frutas, efluentes de la producción de aceite de palma (pomo), turba de cacao y las vainas vacías del cacao)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 40,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Subproductos de industrias que elaboran ingredientes procedentes de agricultura orgánica",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 41,
+    "categoria": "Fertilizantes y acondicionadores del suelo",
+    "pagina_pdf": 56,
+    "codigo_sin": null,
+    "nombre": "Solución de cloruro de calcio.",
+    "condiciones": "Tratamiento foliar en caso de deficiencia probada de calcio."
+  },
+  {
+    "id": 42,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Preparaciones a base de piretrinas extraídas de Chrysanthemum cinerariafolium, que posiblemente contiene una sustancia sinérgica",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación. Exclusión de Piperonil butóxido como sinérgico después del 2005."
+  },
+  {
+    "id": 43,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Preparaciones de rotenona obtenidas de Derris elliptica, Lonchocarpus,Thephrosia spp.",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 44,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Preparaciones de Quassia amara",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 45,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Preparaciones de Ryania speciosa",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 46,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Preparaciones/productos comerciales a base de Neem (Azadirachtin) obtenidas de Azadirachta indica",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 47,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Propóleos",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 48,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Aceites vegetales y animales",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 49,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Algas marinas, sus harinas, extractos, sales marinas y agua salada",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación No tratadas químicamente."
+  },
+  {
+    "id": 50,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 57,
+    "codigo_sin": null,
+    "nombre": "Gelatina",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 51,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Lecitina",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 52,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Caseína",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 53,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Ácidos naturales (por ejemplo vinagre)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 54,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Producto de la fermentación de Aspergillus",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 55,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Extracto de hongos (hongo Shiitake)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 56,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Extracto de Chlorella",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 57,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Nematicidas de quitina",
+    "condiciones": "Origen natural"
+  },
+  {
+    "id": 58,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Preparados naturales de plantas, excluido el tabaco",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 59,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Infusión de tabaco (excepto nicotina pura)",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 60,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Sabadilla",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 61,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Cera de abejas",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 62,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Cobre en la forma de hidróxido de cobre, oxicloruro de cobre, sulfato (tribásico)de cobre, oxido cuproso, mezcla de Burdeos y mezcla de Burdeos",
+    "condiciones": "Necesidad, prescripción y tasas de aplicación reconocidas por el organismo o autoridad de certificación. Como fungicida, con la condición que la sustancia se use de tal manera que minimice la acumulación de cobre en el suelo."
+  },
+  {
+    "id": 63,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 58,
+    "codigo_sin": null,
+    "nombre": "Azufre",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 64,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Polvos minerales (polvo de piedra, silicatos)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 65,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Tierra diatomácea",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 66,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Silicatos, arcilla (Bentonita)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 67,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Silicato de sodio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 68,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Bicarbonato de sodio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 69,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Permanganato de potasio",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 70,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Fosfatos de hierro",
+    "condiciones": "Como control de moluscos"
+  },
+  {
+    "id": 71,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Aceite de parafina",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 72,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Microorganismos (bacterias, virus, hongos), por ejemplo Bacillus thuringiensis, virus Granulosis, etc.",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 73,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Dióxido de carbono y gas de nitrógeno",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 74,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Jabón de potasio (jabón blando)",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 75,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 59,
+    "codigo_sin": null,
+    "nombre": "Alcohol etílico",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 76,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Preparados homeopáticos y ayurvédicos",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 77,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Preparaciones de hierbas y biodinámicas",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 78,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Insectos machos esterilizados",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 79,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Rodenticidas",
+    "condiciones": "Productos para control de pestes en construcciones e instalaciones para el ganado Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 80,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Preparados de feromona",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 81,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Preparaciones basadas en metaldehídos que contengan un repelente para las especies de animales mayores, siempre y cuando se apliquen en trampas.",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación"
+  },
+  {
+    "id": 82,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Aceites minerales",
+    "condiciones": "Necesidad reconocida por el organismo o autoridad de certificación."
+  },
+  {
+    "id": 83,
+    "categoria": "Control de plagas y enfermedades",
+    "pagina_pdf": 60,
+    "codigo_sin": null,
+    "nombre": "Aparatos de control mecánico tales como redes de protección de cultivos, barreras en espiral, trampas plásticas recubiertas con cola, bandas pegajosas.",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 84,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "170",
+    "nombre": "Carbonatos de calcio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 85,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "220",
+    "nombre": "Dióxido de azufre",
+    "condiciones": "Productos del vino"
+  },
+  {
+    "id": 86,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "270",
+    "nombre": "Acido láctico",
+    "condiciones": "Productos vegetales fermentados"
+  },
+  {
+    "id": 87,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "290",
+    "nombre": "Dióxido de carbono",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 88,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "296",
+    "nombre": "Acido málico",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 89,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "300",
+    "nombre": "Acido ascórbico",
+    "condiciones": "Si no está disponible en forma natural"
+  },
+  {
+    "id": 90,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "306",
+    "nombre": "Tocoferoles, concentrados naturales mezclados",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 91,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "322",
+    "nombre": "Lecitina",
+    "condiciones": "Obtenida sin emplear blanqueadores, disolventes orgánicos"
+  },
+  {
+    "id": 92,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "330",
+    "nombre": "Acido cítrico",
+    "condiciones": "Productos de frutas y hortalizas"
+  },
+  {
+    "id": 93,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "335",
+    "nombre": "Tartrato de sodio",
+    "condiciones": "Pastelería/confitería"
+  },
+  {
+    "id": 94,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "336",
+    "nombre": "Tartrato potásico",
+    "condiciones": "Cereales/ pastelería/ confitería"
+  },
+  {
+    "id": 95,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 61,
+    "codigo_sin": "341i",
+    "nombre": "Monofosfato de calcio",
+    "condiciones": "Solo como gasificante de la harina"
+  },
+  {
+    "id": 96,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "400",
+    "nombre": "Ácido algínico",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 97,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "401",
+    "nombre": "Alginato sódico",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 98,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "402",
+    "nombre": "Alginato potásico",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 99,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "406",
+    "nombre": "Agar",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 100,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "407",
+    "nombre": "Carragaenina",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 101,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "410",
+    "nombre": "Goma de algarrobo",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 102,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "412",
+    "nombre": "Goma de guar",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 103,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "413",
+    "nombre": "Goma de tragacanto",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 104,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "414",
+    "nombre": "Goma arábiga",
+    "condiciones": "Leche, grasa y productos de confitería"
+  },
+  {
+    "id": 105,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "415",
+    "nombre": "Goma Xantan",
+    "condiciones": "Productos grasos, frutas y hortalizas, pasteles y galletas, ensaladas"
+  },
+  {
+    "id": 106,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "416",
+    "nombre": "Goma Karaya",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 107,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "440",
+    "nombre": "Pectinas",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 108,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "500",
+    "nombre": "Carbonatos de sodio",
+    "condiciones": "Pasteles y galletas/confitería"
+  },
+  {
+    "id": 109,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "501",
+    "nombre": "Carbonatos potásicos",
+    "condiciones": "Cereales/pasteles y galletas/confitería"
+  },
+  {
+    "id": 110,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "503",
+    "nombre": "Carbonatos de amoníaco",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 111,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "504",
+    "nombre": "Carbonatos de magnesio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 112,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 62,
+    "codigo_sin": "508",
+    "nombre": "Cloruro de potasio",
+    "condiciones": "Frutas y vegetales congelados/frutas y vegetales en conserva, salsas vegetales/ketchup y mostaza"
+  },
+  {
+    "id": 113,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "509",
+    "nombre": "Cloruro de calcio",
+    "condiciones": "Productos lácteos/productos grasos/frutas y hortalizas/productos de soja"
+  },
+  {
+    "id": 114,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "511",
+    "nombre": "Cloruro de magnesio",
+    "condiciones": "Productos de soja"
+  },
+  {
+    "id": 115,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "516",
+    "nombre": "Sulfato de calcio",
+    "condiciones": "Pasteles y galletas/productos de soja/levadura de panadería. Portador"
+  },
+  {
+    "id": 116,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "524",
+    "nombre": "Hidróxido de sodio",
+    "condiciones": "Productos de cereales"
+  },
+  {
+    "id": 117,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "938",
+    "nombre": "Argón",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 118,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "941",
+    "nombre": "Nitrógeno",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 119,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 63,
+    "codigo_sin": "948",
+    "nombre": "Oxígeno",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 120,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "153",
+    "nombre": "Ceniza de madera",
+    "condiciones": "Quesos tradicionales"
+  },
+  {
+    "id": 121,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "170",
+    "nombre": "Carbonatos de calcio",
+    "condiciones": "Productos lácteos. No como colorantes."
+  },
+  {
+    "id": 122,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "270",
+    "nombre": "Ácido láctico",
+    "condiciones": "Funda (tripa) de salchichas"
+  },
+  {
+    "id": 123,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "290",
+    "nombre": "Dióxido de carbono",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 124,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "322",
+    "nombre": "Lecitina",
+    "condiciones": "Obtenida sin utilizar blanqueadores ni solventes orgánicos. Productos lácteos / alimentos infantiles basados en la leche / productos grasos /mayonesa"
+  },
+  {
+    "id": 125,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "331",
+    "nombre": "Citratos de sodio",
+    "condiciones": "Salchichas / pasteurización de claras de huevo / productos lácteos"
+  },
+  {
+    "id": 126,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "406",
+    "nombre": "Agar",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 127,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "407",
+    "nombre": "Carragaenina",
+    "condiciones": "Productos lácteos"
+  },
+  {
+    "id": 128,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "410",
+    "nombre": "Goma de algarrobo",
+    "condiciones": "Productos lácteos / productos cárnicos"
+  },
+  {
+    "id": 129,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "412",
+    "nombre": "Goma guar",
+    "condiciones": "Productos lácteos / carnes enlatadas / productos de los huevos"
+  },
+  {
+    "id": 130,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "413",
+    "nombre": "Goma de tragacanto",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 131,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "414",
+    "nombre": "Goma arábiga",
+    "condiciones": "Productos lácteos / productos grasos / productos de confitería"
+  },
+  {
+    "id": 132,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 64,
+    "codigo_sin": "440",
+    "nombre": "Pectina (no modificada)",
+    "condiciones": "Productos lácteos"
+  },
+  {
+    "id": 133,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 65,
+    "codigo_sin": "509",
+    "nombre": "Cloruro de calcio",
+    "condiciones": "Productos lácteos / productos cárnicos"
+  },
+  {
+    "id": 134,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 65,
+    "codigo_sin": "938",
+    "nombre": "Argón",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 135,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 65,
+    "codigo_sin": "941",
+    "nombre": "Nitrógeno",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 136,
+    "categoria": "Aditivos e ingredientes no agrícolas",
+    "pagina_pdf": 65,
+    "codigo_sin": "948",
+    "nombre": "Oxígeno",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 137,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Agua",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 138,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Cloruro de calcio",
+    "condiciones": "Agente coagulante"
+  },
+  {
+    "id": 139,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Carbonato de calcio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 140,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Hidróxido de calcio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 141,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Sulfato de calcio",
+    "condiciones": "Agente coagulante"
+  },
+  {
+    "id": 142,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Cloruro de magnesio (o \"nigari\")",
+    "condiciones": "Agente coagulante"
+  },
+  {
+    "id": 143,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Carbonato de potasio",
+    "condiciones": "Secado de uvas"
+  },
+  {
+    "id": 144,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Dióxido de carbono",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 145,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Nitrógeno",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 146,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Etanol",
+    "condiciones": "Disolvente"
+  },
+  {
+    "id": 147,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Acido tánico",
+    "condiciones": "Agente de filtración"
+  },
+  {
+    "id": 148,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Albúmina de clara de huevo",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 149,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Caseína",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 150,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Gelatina",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 151,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 66,
+    "codigo_sin": null,
+    "nombre": "Colapez",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 152,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Aceites vegetales",
+    "condiciones": "Agentes engrasadores o liberadores"
+  },
+  {
+    "id": 153,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Dióxido de silicio",
+    "condiciones": "Gel o solución coloidal"
+  },
+  {
+    "id": 154,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Carbón activado",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 155,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Talco",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 156,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Bentonita",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 157,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Caolina",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 158,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Tierra diatomácea",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 159,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Perlita",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 160,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Cáscaras de avellana",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 161,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Cera de abeja",
+    "condiciones": "Agente liberador"
+  },
+  {
+    "id": 162,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Cera de carnauba",
+    "condiciones": "Agente liberador"
+  },
+  {
+    "id": 163,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Acido sulfúrico",
+    "condiciones": "Ajuste del pH en la extracción del agua para la producción de azúcar"
+  },
+  {
+    "id": 164,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Hidróxido de sodio",
+    "condiciones": "Ajuste del pH en la producción de azúcar"
+  },
+  {
+    "id": 165,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Acido y sales tartáricas",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 166,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Carbonato de sodio",
+    "condiciones": "Producción de azúcar"
+  },
+  {
+    "id": 167,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Preparaciones de componentes de corteza",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 168,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Hidróxido de potasio",
+    "condiciones": "Ajuste del pH en la elaboración del azúcar"
+  },
+  {
+    "id": 169,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 67,
+    "codigo_sin": null,
+    "nombre": "Acido cítrico",
+    "condiciones": "Ajuste del pH"
+  },
+  {
+    "id": 170,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Carbonatos de calcio",
+    "condiciones": "Sin observaciones complementarias."
+  },
+  {
+    "id": 171,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Cloruro de calcio",
+    "condiciones": "Reforzador de la textura; agente de coagulación en la elaboración de queso."
+  },
+  {
+    "id": 172,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Caolín",
+    "condiciones": "Extracción de propóleos."
+  },
+  {
+    "id": 173,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Ácido láctico",
+    "condiciones": "Productos lácteos; agente de coagulación; regulador del pH del baño de sal para el queso."
+  },
+  {
+    "id": 174,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Carbonato de sodio",
+    "condiciones": "Productos lácteos: sustancia neutralizante."
+  },
+  {
+    "id": 175,
+    "categoria": "Coadyuvantes de elaboración",
+    "pagina_pdf": 68,
+    "codigo_sin": null,
+    "nombre": "Agua",
+    "condiciones": "Sin observaciones complementarias."
+  }
+]
